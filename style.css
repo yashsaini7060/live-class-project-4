@@ -1,0 +1,96 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  outline: 0px;
+  font-family: "Poppins";
+}
+
+/* NAVBAR BEGINS */
+
+nav{
+  position: relative;
+  margin-top: 80px;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 60px;
+}
+
+div{
+  display: inline;
+}
+
+img[alt="brand-logo"]{
+  margin-right: 10px;
+}
+
+ul{
+  display: inline;
+  position:absolute;
+  top:15px;
+  left:250px;
+}
+li{
+  display: inline;
+  font-size: 20px;
+  color: #B3B3B3;
+  margin: 20px;
+}
+
+.nav-button{
+  background-color: #5955B3;
+  float: right;
+  height: 60px;
+  width: 150px;
+  border: 0px;
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+/* NAVBAR ENDS */
+
+
+/* HERO SECTION STARTS*/
+
+.heading-text{
+  position: absolute;
+  left: 150px;
+  top:250px;
+  font-size: 80px;
+  width: 30%;
+  color: #3C2F60;
+}
+
+span{
+  color: #5955B3;
+}
+
+.description{
+  position: absolute;
+  left: 150px;
+  top:650px;
+  font-size: 20px;
+  width: 25%;
+  color: #ABABAB;
+}
+
+img[alt="illustration"]{
+  position:absolute;
+  top: 200px;
+  right: 0px;
+}
+
+.service-button{
+  position: absolute;
+  bottom: 100px;
+  left: 250px;
+  background-color: #5955B3;
+  height: 80px;
+  width: 250px;
+  border: 0px;
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 18px;
+}
+
+/* HERO SECTION ENDS*/
